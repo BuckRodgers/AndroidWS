@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    
+    
+    
+    
+   <ViewFlipper
+        android:id="@+id/view_flipper_UpDown"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical" >
+
+        
+      
+	<LinearLayout
+	    android:id="@+id/UpEnglish"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_gravity="center"
+	    android:background="@color/yellow"
+	    android:orientation="vertical" >
+
+	    <TextView
+	        android:id="@+id/VerbEnglish"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:gravity="center"
+	        android:textSize="40sp"
+	        android:textStyle="bold"/>
+	        <!--  android:typeface="serif"-->
+	</LinearLayout>
+	
+	
+	
+    <ViewFlipper
+        android:id="@+id/view_flipper"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical" >
+    
+
+<!--   left right-->
+	<LinearLayout
+	    android:id="@+id/PreviousView"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_gravity="center"
+	    android:background="@color/red"
+	    android:orientation="vertical" >
+
+	    <TextView
+	        android:id="@+id/VerbPrevious"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	       android:gravity="center"
+	        android:textSize="40sp"
+	        android:textStyle="bold"/>
+	        <!--  android:typeface="serif"-->
+	</LinearLayout>
+	
+	
+	<LinearLayout
+	    android:id="@+id/NowView"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_gravity="center"
+	    android:background="@color/red"
+	    android:orientation="vertical" >
+
+	    <TextView
+	        android:id="@+id/VerbNow"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:gravity="center"
+	        android:textSize="40sp"
+	        android:textStyle="bold"/>
+	         <!--  android:typeface="serif"-->
+	</LinearLayout>
+
+	<LinearLayout
+	    android:id="@+id/NextView"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_gravity="center"
+	    android:background="@color/red"
+	    android:orientation="vertical" >
+
+	    <TextView
+	        android:id="@+id/VerbNext"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:gravity="center"
+	        android:textColor="@color/black"
+	        android:textSize="40sp"
+	        android:textStyle="bold"/>
+	        <!--  android:typeface="serif"-->
+	</LinearLayout>
+
+    </ViewFlipper>
+
+	
+
+	<LinearLayout
+	    android:id="@+id/DownDatid"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_gravity="center"
+	    android:background="@color/yellow"
+	    android:orientation="vertical" >
+
+	    <TextView
+	        android:id="@+id/VerbDatid"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:gravity="center"
+	        android:textColor="@color/black"
+	        android:textSize="40sp"
+	        android:textStyle="bold"/>
+	        <!--  android:typeface="serif"-->
+	</LinearLayout>
+
+    </ViewFlipper> 
+    
+</AbsoluteLayout>
+
+<!-- <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DisplayActivity" >
+
+</RelativeLayout>
+ -->

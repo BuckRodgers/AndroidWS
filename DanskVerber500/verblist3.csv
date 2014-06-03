@@ -1,0 +1,516 @@
+translation,navnem,nutid,datid,førnutid,førdatid,bydem,bøj
+accept,acceptere,accepterer,accepterede,har accepteret,havde accepteret,accepter,b1
+separate,adskille,adskiller,adskilte,har adskilt,havde adskilt,adskil,b2
+warn,advare,advarer,advarede,har advaret,havde advaret,advar,b1
+interrupt,afbryde,afbryder,afbrød,har afbrudt,havde afbrudt,afbryd,uv
+submit,afgive,afgiver,afgav,har afgivet,havde afgivet,afgiv,uv
+determine,afgøre,afgør,afgjorde,har afgjort,havde afgjort,afgør,uv
+deliver,aflevere,afleverer,afleverede,har afleveret,havde afleveret,aflever,b1
+cancel,aflyse,aflyser,aflyste,har aflyst,havde aflyst,aflys,b2
+replace,afløse,afløser,afløste,har afløst,havde afløst,afløs,b2
+abolish,afskaffe,afskaffer,afskaffede,har afskaffet,havde afskaffet,afskaf,b1
+exit,afslutte,afslutter,afsluttede,har afsluttet,havde afsluttet,afslut,b1
+reject,afvise,afviser,afviste,har afvist,havde afvist,afvis,b2
+recommend,anbefale,anbefaler,anbefalede,har anbefalet,havde anbefalet,anbefal,b1
+place,anbringe,anbringer,anbragte,har anbragt,havde anbragt,anbring,uv
+ane,ane,aner,anede,har anet,havde anet,,b1
+recognize,anerkende,anerkender,anerkendte,har anerkendt,havde anerkendt,anerkend,b2
+set,angive,angiver,angav,har angivet,havde angivet,angiv,uv
+concern,angå,angår,angik,har angået,havde angået,,uv
+arrest,anholde,anholder,anholdt,har anholdt,havde anholdt,anhold,uv
+arrive,ankomme,ankommer,ankom,er ankommet,var ankommet,,uv
+report,anmelde,anmelder,anmeldte,har anmeldt,havde anmeldt,anmeld,b2
+consider,anse,anser,anså,har anset,havde anset,,uv
+hire,ansætte,ansætter,ansatte,har ansat,havde ansat,ansæt,uv
+use,anvende,anvender,anvendte,har anvendt,havde anvendt,anvend,b2
+work,arbejde,arbejder,arbejdede,har arbejdet,havde arbejdet,arbejd,b1
+arranging,arrangere,arrangerer,arrangerede,har arrangeret,havde arrangeret,arranger,b1
+arrest,arrestere,arresterer,arresterede,har arresteret,havde arresteret,arrester,b1
+bake,bage,bager,bagte,har bagt,havde bagt,bag,b2
+knock,banke,banker,bankede,har banket,havde banket,bank,b1
+ask,bede,beder,bad,har bedt,havde bedt,bed,uv
+located,befinde,befinder,befandt,har befundet,havde befundet,,uv
+bury,begrave,begraver,begravede,har begravet,havde begravet,begrav,b1
+limit,begrænse,begrænser,begrænsede,har begrænset,havde begrænset,begræns,b1
+start,begynde,begynder,begyndte,er begyndt,var begyndt,begynd,b2
+commit,begå,begår,begik,har begået,havde begået,begå,uv
+treat,behandle,behandler,behandlede,har behandlet,havde behandlet,behandl,b1
+keep,beholde,beholder,beholdt,har beholdt,havde beholdt,behold,uv
+need,behøve,behøver,behøvede,har behøvet,havde behøvet,,b1
+complain,beklage,beklager,beklagede,har beklaget,havde beklaget,beklag,b1
+confirm,bekræfte,bekræfter,bekræftede,har bekræfted,havde bekræftet,bekræft,b1
+note,bemærke,bemærker,bemærkede,har bemærket,havde bemærket,bemærk,b1
+use,benytte,benytter,benyttede,har benyttet,havde benyttet,benyt,b1
+describe,beskrive,beskriver,beskrev,har beskrevet,havde beskrevet,beskriv,uv
+protect,beskytte,beskytter,beskyttede,har beskyttet,havde beskyttet, beskyt,b1
+decide,beslutte,beslutter,besluttede,har besluttet,havde besluttet, beslut,b1
+determine,bestemme,bestemmer,bestemte,har bestemt,havde bestemt, bestem,b2
+book,bestille,bestiller,bestilte,har bestilt,havde bestilt, bestil,b2
+consist,bestå,består,bestod,har bestået,havde bestået, bestå,uv
+occupy,besætte,besætter,besatte,har besat,havde besat, besæt,uv
+visit,besøge,besøger,besøgte,har besøgt,havde besøgt, besøg,b2
+pay,betale,betaler,betalte,har betalt,havde betalt, betal,b2
+mean,betyde,betyder,betød,har betydet,havde betydet, betyd,uv
+preserve,bevare,bevarer,bevarede,har bevaret,havde bevaret, bevar,b1
+prove,bevise,beviser,beviste,har bevist,havde bevist, bevis,b2
+move,bevæge sig,bevæger sig,bevægede sig,har bevæget  sig,havde bevæget sig,bevæg dig ,b1
+bite,bide,bider,bed,har bidt,havde bidt, bid,uv
+contribute,bidrage,bidrager,bidrog,har bidraget,havde bidraget, bidrag,uv
+tie,binde,binder,bandt,har bundet,havde bundet, bind,uv
+mix,blande,blander,blandede,har blandet,havde blandet, bland,b1
+be,blive,bliver,blev,er blevet,var blevet, bliv,uv
+blow,blæse,blæser,blæste,har blæst,havde blæst, blæs,b2
+stay,bo,bor,boede,har boet,havde boet, bo,b1
+spread,brede sig,breder sig,bredte sig,har bredt sig,havde bredt sig,bred dig ,b2
+bring,bringe,bringer,bragte,har bragt,havde bragt, bring,uv
+use,bruge,bruger,brugte,har brugt,havde brugt, brug,b2
+break,bryde,bryder,brød,har brudt,havde brudt, bryd,uv
+building,bygge,bygger,byggede,har bygget,havde bygget, byg,b1
+exchange,bytte,bytter,byttede,har byttet,havde byttet, byt,b1
+wear,bære,bærer,bar,har båret,havde båret, bær,uv
+quote,citere,citerer,citerede,har citeret,havde citeret, citer,b1
+form,danne,danner,dannede,har dannet,havde dannet, dan,b1
+dance,danse,danser,dansede,har danset,havde danset, dans,b1
+parts,dele,deler,delte,har delt,havde delt, del,b2
+participate,deltage,deltager,deltog,har deltaget,havde deltaget, deltag,uv
+discuss,diskutere,diskuterer,diskuterede,har diskuteret,havde diskuteret,diskuter ,b1
+dominate,dominere,dominerer,dominerede,har domineret,havde domineret,dominer ,b1
+kite,drage,drager,drog,har draget,havde draget, drag,uv
+turning,dreje,drejer,drejede,har drejet,havde drejet, dreje,b1
+drink,drikke,drikker,drak,har drukket,havde drukket, drik,uv
+drive,drive,driver,drev,har drevet,havde drevet, driv,uv
+kill,dræbe,dræber,dræbte,har dræbt,havde dræbt, dræb,b2
+discuss,drøfte,drøfter,drøftede,har drøftet,havde drøftet, drøft,b1
+dreams,drømme,drømmer,drømte,har drømt,havde drømt, drøm,b2
+show up,dukke op,dukker op,dukkede op,er dukket op,var dukket op, duk op,b1
+cover,dække,dækker,dækkede,har dækket,havde dækket, dæk,b1
+die,dø,dør,døde,er død,var død, dø,uv
+judging,dømme,dømmer,dømte,har dømt,havde dømt,døm,b2
+leave,efterlade,efterlader,efterlod,har efterladt,havde efterladt,efterlad,uv
+owning,eje,ejer,ejede,har ejet,havde ejet,,b1
+exist,eksistere,eksisterer,eksisterede,har eksisteret,havde eksisteret,,b1
+love,elske,elsker,elskede,har elsket,havde elsket,elsk,b1
+end,ende,ender,endte,er endt,var endt,,b2
+recognize,erkende,erkender,erkendte,har erkendt,havde erkendt,erkend,b2
+replace,erstatte,erstatter,erstattede,har erstattet,havde erstatte,erstat,b1
+fall,falde,falder,faldt,er faldet,var faldet,fald,uv
+catch,fange,fanger,fangede,har fanget,havde fanget,fang,b1
+maintain,fastholde,fastholder,fastholdt,har fastholdt,havde fastholdt,fasthold,uv
+determine,fastslå,fastslår,fastslog,har fastslået,havde fastslået,slå fast,uv
+fix,fastsætte,fastsætter,fastsatte,har fastsat,havde fastsat,fastsæt,uv
+grasp,fatte,fatter,fattede,har fattet,havde fattet,fat,b1
+celebrate,fejre,fejrer,fejrede,har fejret,havde fejret,fejr,b1
+find,finde,finder,fandt,har fundet,havde fundet,find,uv
+remove,fjerne,fjerner,fjernede,har fjernet,havde fjernet,fjern,b1
+escape,flygte,flygter,flygtede,er flygtet,var flygtet,flygt,b1
+move,flytte,flytter,flyttede,er flyttet,var flyttet,flyt,b1
+fly,flyve,flyver,fløj,har / er fløjet,havde / var fløjet,flyv,uv
+feed,fodre,fodrer,fodrede,har fodret,havde fodret,fodr,b1
+improve,forbedre,forbedrer,forbedrede,har forbedret,havde forbedret,forbedr,b1
+prepare,forberede,forbereder,forberedte,har forberedt,havde forberedt,forbered,b2
+link,forbinde,forbinder,forbandt,har forbundet,havde forfundet,forbind,uv
+remain,forblive,forbliver,forblev,er forblevet,var forblevet,forbliv,uv
+benefits,fordele,fordeler,fordelte,har fordelt,havde fordelt,fordel,b2
+place,foregå,foregår,foregik,er foregået,var foregået,foregå,uv
+occur,forekomme,forekommer,forekom,er forekommet,var forekommet,forekom,uv
+fall in love,forelske sig,forelsker sig,forelskede sig,har forelsket sig,havde forelsketsig,forelsk dig,b1
+unite,forene,forener,forenede,har forenet,havde forenet,foren,b1
+suggest,foreslå,foreslår,foreslog,har foreslået,havde foreslået,foreslå,uv
+imagine,forestille sig,forestiller sig,forestillede sig,forestillethar  sig,havde forestilletsig,forestil dig,b1
+take,foretage sig,foretager sig,foretog sig,har foretagetsig,havde foretagetsig,foretag dig,uv
+prefer,foretrække,foretrækker,foretrak,har foretrukket,havde foretrukket,,uv
+negotiate,forhandle,forhandler,forhandlede,har forhandlet,havde forhandlet,forhandl,b1
+prevent,forhindre,forhindrer,forhindrede,har forhindret,havde forhindret,forhindr,b1
+relate,forholde sig,forholder sig,forholdt sig,har forholdt sig,havde forholdt sig,forhold dig,uv
+explain,forklare,forklarer,forklarede,har forklaret,havde forklaret,forklar,b1
+leave,forlade,forlader,forlod,har forladt,havde forladt,forlad,uv
+demand,forlange,forlanger,forlangte,har forlangt,havde forlangt,forlang,b2
+formulate,formulere,formulerer,formulerede,har formuleret,havde formuleret,formuler,b1
+induce,formå,formår,formåede,har fomået,havde formået,formå,b1
+delay,forsinke,forsinker,forsinkede,har forsinket,havde forsinket,forsink,b1
+understand,forstå,forstår,forstod,har forstået,havde forstået,forstå,uv
+defend,forsvare,forsvarer,forsvarede,har forsvaret,havde forsvaret,forsvar,b1
+disappear,forsvinde,forsvinder,forsvandt,er forsvundet,var forsvundet,forsvind,uv
+try,forsøge,forsøger,forsøgte,har forsøgt,havde forsøgt,forsøg,b2
+profits,fortjene,fortjener,fortjente,har fortjent,havde fortjent,fortjen,b2
+continue,fortsætte,fortsætter,fortsatte,har / er fortsat,havde / var fortsat,fortsæt,uv
+tell,fortælle,fortæller,fortalte,har fortalt,havde fortalt,fortæl,uv
+require,forudsætte,forudsætter,forudsatte,har / erforudsat,havdeforudsat/ var,forudsæt,uv
+transform,forvandle,forvandler,forvandlede,har forvandlet,havde forvandlet,forvandl,b1
+expect,forvente,forventer,forventede,har forventet,havde forventet,forvent,b1
+appear,fremgå,fremgår,fremgik,er fremgået,var fremgået,fremgå,uv
+highlight,fremhæve,fremhæver,fremhævede,har fremhævet,havde fremhævet,fremhæv,b1
+submit,fremlægge,fremlægger,fremlagde,har fremlagt,havde fremlagt,fremlæg,uv
+produce,fremstille,fremstiller,fremstillede,har fremstillet,havde fremstillet,fremstil,b1
+submit,fremsætte,fremsætter,fremsatte,har fremsat,havde fremsat,fremsæt,uv
+tempt,friste,frister,fristede,har fristet,havde fristet,frist,b1
+fear,frygte,frygter,frygtede,har frygtet,havde frygtet,frygt,b1
+function,fungere,fungerer,fungerede,har fungeret,havde fungeret,funger,b1
+fill,fylde,fylder,fyldte,har fyldt,havde fyldt,fyld,b2
+guys,fyre,fyrer,fyrede,har fyret,havde fyret,fyr,b1
+food,føde,føder,fødte,har født,havde født,fød,b2
+feel,føle,føler,følte,har følt,havde følt,føl,b2
+follow,følge,følger,fulgte,har fulgt,havde fulgt,følg,uv
+lead,føre,fører,førte,har ført,havde ført,før,b2
+get,få,får,fik,har fået,havde fået,få,uv
+save,gemme,gemmer,gemte,har gemt,havde gemt,gem,b2
+bother,genere,generer,generede,har generet,havde generet,gener,b1
+implement,gennemføre,gennemfører,gennemførte,har gennemført,havde gennemført,gennemfør,b2
+review,gennemgå,gennemgår,gennemgik,har gennemgået,havde gennemgået,gennemgå,uv
+repeat,gentage,gentager,gentog,har gentaget,havde gentaget,gentag,uv
+choose,gide,gider,gad,har gidet,havde gidet,gid,uv
+marry,gifte sig,gifter sig,giftede sig,har giftet sig,havde giftet sig,gift dig,b1
+provide,give,giver,gav,har givet,havde givet,giv,uv
+forget,glemme,glemmer,glemte,har glemt,havde glemt,glem,b2
+slide,glide,glider,gled,er gledet,var gledet,glid,uv
+rejoice,glæde sig,glæder sig,glædede sig,har glædet sig,havde glædet sig,glæd dig,b1
+approve,godkende,godkender,godkendte,har godkendt,havde godkendt,godkend,b2
+intervene,gribe,griber,greb,har grebet,havde grebet,grib,uv
+laugh,grine,griner,grinede,har grinet,havde grinet,grin,b1
+cry,græde,græder,græd,har grædt,havde grædt,græd,uv
+do,gøre,gør,gjorde,har gjort,havde gjort,gør,uv
+go,gå,går,gik,har / er gået,havde / var gået,gå,uv
+hate,hade,hader,hadede,har hadet,havde hadet,had,b1
+act,handle,handler,handlede,har handlet,havde handlet,handl,b1
+garden,have,har,havde,har haft,havde haft,hav,uv
+called,hedde,hedder,hed,har heddet,havde heddet,,uv
+download,hente,henter,hentede,har hentet,havde hentet,hent,b1
+turn,henvende sig,henvendersig,henvendte sig,har henvendt  sig,havde henvendt sig,henvend dig,b2
+refer,henvise,henviser,henviste,har henvist,havde henvist,henvis,b2
+rule,herske,hersker,herskede,har hersket,havde hersket,hersk,b1
+greet,hilse,hilser,hilste,har hilst,havde hilst,hils,b2
+prevent,hindre,hindrer,hindrede,har hindret,havde hindret,hindr,b1
+help,hjælpe,hjælper,hjalp,har hjulpet,havde hjulpet,hjælp,uv
+keep,holde,holder,holdt,har holdt,havde holdt,hold,uv
+jump,hoppe,hopper,hoppede,har / er hoppet,havdehoppet/ var,hop,b1
+remember,huske,husker,huskede,har husket,havde husket,husk,b1
+rest,hvile sig,hviler sig,hvilede sig,har hvilet sig,havde hvilet sig,hvil dig,b1
+whisper,hviske,hvisker,hviskede,har hvisket,havde hvisket,hvisk,b1
+pour,hælde,hælder,hældte,har hældt,havde hældt,hæld,b2
+hang (tr) .,"hænge, (tr).",hænger,hængte,har hængt,havde hængt,hæng,b2
+hang ( intr ) .,hænge (intr).,hænger,hang,har hængt,havde hængt,hæng,uv
+claim,hævde,hævder,Hævdede,har hævdet,havde hævdet,hævd,b1
+raise,hæve,hæver,hævede,har hævet,havde hævet,hæv,b1
+hear,høre,hører,hørte,har hørt,havde hørt,hør,b2
+hope,håbe,håber,håbede,har håbet,havde håbet,håb,b1
+involve,inddrage,inddrager,inddrog,har inddraget,havde inddraget,inddrag,uv
+imply,indebære,indebærer,indebar,har indebåret,havde indebåret,,uv
+contain,indeholde,indeholder,indeholdt,har indeholdt,havde indeholdt,,uv
+introduce,indføre,indfører,indførte,har indført,havde indført,indfør,b2
+included,indgå,indgår,indgik,har indgået,havde indgået,indgå,uv
+open,indlede,indleder,indledte,har indledt,havde indledt,indled,b2
+organize,indrette,indretter,indrettede,har indrettet,havde indrettet,indret,b1
+admit,indrømme,indrømmer,indrømmede,har indrømmet,havde indrømmet,indrøm,b1
+set,indstille,indstiller,indstillede,har indstillet,havde indstillet,indstil,b1
+take,indtage,indtager,indtog,har indtaget,havde indtaget,indtag,uv
+install,installere,installerer,installerede,har installeret,havde installeret,installer,b1
+inspire,inspirere,inspirerer,inspirerede,har inspireret,havde inspireret,inspirer,b1
+interest,interessere,interesserer,interesserede,har interesseret,havde interesseret,interesser,b1
+invest,investere,investerer,investerede,har investeret,havde investeret,invester,b1
+invite,invitere,inviterer,inviterede,har inviteret,havde inviteret,inviter,b1
+irritate,irritere,irriterer,irriterede,har irriteret,havde irriteret,irriter,b1
+call,kalde,kalder,kaldte,har kaldt,havde kaldt,kald,b2
+throw,kaste,kaster,kastede,har kastet,havde kastet,kast,b1
+know,kende,kender,kendte,har kendt,havde kendt,kend,b2
+look,kigge,kigger,kiggede,har kigget,havde kigget,kig,b1
+clear,klare,klarer,klarede,har klaret,havde klaret,klar,b1
+rock,klippe,klipper,klippede,har klippet,havde klippet,klip,b1
+dress,klæde,klæder,klædte,har klædt,havde klædt,klæd,b2
+crush,knuse,knuser,knuste,har knust,havde knust,knus,b2
+link,knytte,knytter,knyttede,har knyttet,havde knyttet,knyt,b1
+cook,koge,koger,kogte,har kogt,havde kogt,kog,b2
+combining,kombinere,kombinerer,kombinerede,har kombineret,havde kombineret,kombiner,b1
+come,komme,kommer,kom,er kommet,var kommet,kom,uv
+comment,kommentere,kommenterer,kommenterede,Har kommenteret,kommenterethavde,kommenter,b1
+concentrate,koncentrere sig,koncentrerer sig,koncentrede sig,har koncentreret sig,havde koncentreret sig,koncentrer dig,b1
+note,konstatere,konstaterer,konstaterede,har konstateret,havde konstateret,konstater,b1
+contact,kontakte,kontakter,kontaktede,har kontaktet,havde kontaktet,kontakt,b1
+check,kontrollere,kontrollerer,kontrollerede,har kontrolleret,havde kontrolleret,kontroller,b1
+cost,koste,koster,kostede,har kostet,havde kostet,,b1
+criticize,kritisere,kritiserer,kritiserede,har kritiseret,havde kritiseret,kritiser,b1
+require,kræve,kræver,krævede,har krævet,havde krævet,kræv,b1
+could,kunne,kan,kunne,har kunnet,havde kunnet,,uv
+like,kunne lide,kan lide,kunne lide,har kunnet lide,havde kunnet lide,,uv
+kiss,kysse,kysser,kyssede,har kysset,havde kysset,kys,b1
+fight,kæmpe,kæmper,kæmpede,har kæmpet,havde kæmpet,kæmp,b1
+buy,købe,køber,købte,har købt,havde købt,køb,b2
+run,køre,kører,kørte,har / er kørt,havde / var kørt,kør,b2
+let,lade,lader,lod,har ladet,havde ladet,lad,uv
+pretend,lade som om,lader som om,lod som om,har ladet som om,havde ladet som om,lad som om,uv
+countries,lande,lander,landede,er landet,var landet,land,b1
+low,lave,laver,lavede,har lavet,havde lavet,lav,b1
+le,le,ler,lo,har leet,havde leet,le,uv
+lead,lede,leder,ledte,har ledt,havde ledt,led,b2
+play,lege,leger,legede,har leget,havde leget,leg,b1
+rent,leje,lejer,lejede,har lejet,havde lejet,lej,b1
+light,lette,letter,lettede,har / er lettet,havde / er lettet,let,b1
+live,leve,lever,levede,har levet,havde levet,lev,b1
+supply,levere,leverer,leverede,har leveret,havde leveret,lever,b1
+like,lide,lider,led,har lidt,havde lidt,lid,uv
+lie ( intr. ),ligge (intr.),ligger,lå,har ligget,havde ligget,lig,uv
+like,ligne,ligner,lignede,har lignet,havde lignet,lign,b1
+lure,lokke,lokker,lokkede,har lokket,havde lokket,lok,b1
+laws,love,lover,lovede,har lovet,havde lovet,lov,b1
+close,lukke,lukker,lukkede,har lukket,havde lukket,luk,b1
+sounds,lyde,lyder,lød,har lydt,havde lydt,lyd,uv
+succeed,lykkes,lykkes,lykkedes,er lykkedes,var lykkedes,,uv
+bright,lyse,lyser,lyste,har lyst,havde lyst,lys,b2
+listen,lytte,lytter,lyttede,har lyttet,havde lyttet,lyt,b1
+put ( tr. ),lægge (tr.),lægger,lagde,har lagt,havde lagt,læg,uv
+learn,lære,lærer,lærte,har lært,havde lært,lær,b2
+read,læse,læser,læste,har læst,havde læst,læs,b2
+run,løbe,løber,løb,har / er løbet,havde / var løbet,løb,uv
+lift,løfte,løfter,løftede,har løftet,havde løftet,løft,b1
+solve,løse,løser,løste,har løst,havde løst,løs,b2
+loan,låne,låner,lånte,har lånt,havde lånt,lån,b2
+paint,male,maler,malede,har malet,havde malet,mal,b1
+missing,mangle,mangler,manglede,har manglet,havde manglet,,b1
+grant,meddele,meddeler,meddelte,har meddelt,havde meddelt,meddel,b2
+cause,medføre,medfører,medførte,har medført,havde medført,medfør,b2
+help,medvirke,medvirker,medvirkede,har medvirket,havde medvirket,medvirk,b1
+report,melde,melder,meldte,har meldt,havde meldt,meld,b2
+think,mene,mener,mente,har ment,havde ment,men,b2
+memorial,minde,minder,mindede,har mindet,havde mindet,mind,b1
+lose,miste,mister,mistede,har mistet,havde mistet,mist,b1
+receive,modtage,modtager,modtog,har modtaget,havde modtaget,modtag,uv
+murder,myrde,myrder,myrdede,har myrdet,havde myrdet,myrd,b1
+brand,mærke,mærker,mærkede,har mærket,havde mærket,mærk,b1
+meeting,møde,møder,mødte,har mødt,havde mødt,mød,b2
+meet,mødes,mødes,mødtes,har mødtes,havde mødtes,,uv
+measurement,måle,måler,målte,har målt,havde målt,mål,b2
+had,måtte,må,måtte,har måttet,havde måttet,,uv
+resign,nedlægge,nedlægger,nedlagde,har nedlagt,havde nedlagt,nedlæg,uv
+decrease,nedsætte,nedsætter,nedsatte,har nedsat,havde nedsat,nedsæt,uv
+nod,nikke,nikker,nikkede,har nikket,havde nikket,nik,b1
+note,notere,noterer,noterede,har noteret,havde noteret,noter,b1
+enjoy,nyde,nyder,nød,har nydt,havde nydt,nyd,uv
+refuse,nægte,nægter,nægtede,har nægtet,havde nægtet,nægt,b1
+approach,nærme sig,nærmer sig,nærmede sig,har nærmet  sig,nærmethavde sig,nærm dig,b1
+just,nøjes med,nøjes med,nøjedes med,har nøjedes,havde nøjedesmed,nøjes med,uv
+reach,nå,når,nåede,har nået,havde nået,nå,b1
+publish,offentliggøre,offentliggør,offentlig-gjorde,har offentlig-gjort,havde offentlig-gjort,offentlig-gør,uv
+include,omfatte,omfatter,omfattede,har omfattet,havde omfattet,omfat,b1
+surround,omgive,omgiver,omgav,har omgivet,havde omgivet,omgiv,uv
+build,opbygge,opbygger,opbyggede,har opbygget,havde opbygget,opbyg,b1
+discover,opdage,opdager,opdagede,har opdaget,havde opdaget,opdag,b1
+operate,operere,opererer,opererede,har opereret,havde opereret,operer,b1
+perceive,opfatte,opfatter,opfattede,har opfattet,havde opfattet,opfat,b1
+invent,opfinde,opfinder,opfandt,har opfundet,havde opfundet,opfind,uv
+encourage,opfordre,opfordrer,opfordrede,har opfordret,havde opfordret,opfordr,b1
+meet,opfylde,opfylder,opfyldte,har opfyldt,havde opfyldt,opfyld,b2
+behave,opføre,opfører,opførte,har opført,havde opført,opfør,b2
+give up,opgive,opgiver,opgav,har opgivet,havde opgivet,opgiv,uv
+lift,ophæve,ophæver,ophævede,har ophævet,havde ophævet,ophæv,b1
+experience,opleve,oplever,oplevede,har oplevet,havde oplevet,oplev,b1
+state,oplyse,oplyser,oplyste,har oplyst,havde oplyst,oplys,b2
+achieve,opnå,opnår,opnåede,har opnået,havde opnået,opnå,b1
+create,oprette,opretter,oprettede,har oprettet,havde oprettet,opret,b1
+set,opstille,opstiller,opstillede,har opstillet,havde opstillet,opstil,b1
+occur,opstå,opstår,opstod,er opstået,var opstået,opstå,uv
+record,optage,optager,optog,har optaget,havde optaget,optag,uv
+act,optræde,optræder,optrådte,har optrådt,havde optrådt,optræd,uv
+orient,orientere,orienterer,orienterede,har orienteret,havde orienteret,orienter,b1
+convince,overbevise,overbeviser,overbeviste,har overbevist,havde overbevist,overbevis,b2
+transfer,overføre,overfører,overførte,har overført,havde overført,overfør,b2
+comply,overholde,overholder,overholdt,har overholdt,havde overholdt,overhold,uv
+leave,overlade,overlader,overlod,har overladt,havde overladt,overlad,uv
+survive,overleve,overlever,overlevede,har overlevet,havde overlevet,overlev,b1
+surprise,overraske,overrasker,overraskede,har overrasket,havde overrasket,overrask,b1
+over,overtage,overtager,overtog,har overtaget,havde overtaget,overtag,uv
+consider,overveje,overvejer,overvejede,har overvejet,havde overvejet,overvej,b1
+package,pakke,pakker,pakkede,har pakket,havde pakket,pak,b1
+fit,passe,passer,passede,har passet,havde passet,pas,b1
+point,pege,peger,pegede,har peget,havde peget,peg,b1
+place,placere,placerer,placerede,har placeret,havde placeret,placer,b1
+plan,planlægge,planlægger,planlagde,har planlagt,havde planlagt,planlæg,uv
+care,pleje,plejer,plejede,har plejet,havde plejet,plej,b1
+press,presse,presser,pressede,har presset,havde presset,pres,b1
+produce,producere,producerer,producerede,har produceret,havde produceret,producer,b1
+influence,præge,præger,prægede,har præget,havde præget,præg,b1
+present,præsentere,præsenterer,præsenterede,har præsenteret,havde præsenteret,præsenter,b1
+specimen,prøve,prøver,prøvede,har prøvet,havde prøvet,prøv,b1
+polish,pudse,pudser,pudsede,har pudset,havde pudset,puds,b1
+affect,påvirke,påvirker,påvirkede,har påvirket,havde påvirket,påvirk,b1
+frame,ramme,rammer,ramte,har ramt,havde ramt,ram,b2
+react,reagere,reagerer,reagerede,har reageret,havde reageret,reager,b1
+save,redde,redder,reddede,har reddet,havde reddet,red,b1
+reducing,reducere,reducerer,reducerede,har reduceret,havde reduceret,reducer,b1
+register,registrere,registrerer,registrerede,har registreret,havde registreret,registrer,b1
+count,regne,regner,regnede,har regnet,havde regnet,regn,b1
+travel,rejse,rejser,rejste,har / er rejst,havde / var rejst,rejs,b2
+clean,rense,renser,rensede,har renset,havde renset,rens,b1
+represent,repræsentere,repræsen-terer,repræsen-terede,har repræsen-teret,havde repræsen-teret,repræsen-ter,b1
+respect,respektere,respekterer,respekterede,har respekteret,havde respekteret,respekter,b1
+right,rette,retter,rettede,har rettet,havde rettet,ret,b1
+ride,ride,rider,red,har redet,havde redet,rid,uv
+call,ringe,ringer,ringede,har ringet,havde ringet,ring,b1
+risk,risikere,risikerer,risikerede,har risikeret,havde risikeret,risiker,b1
+tear,rive,river,rev,har revet,havde revet,riv,uv
+rose,rose,roser,roste,har rost,havde rost,ros,b2
+roll,rulle,ruller,rullede,har / er rullet,havde / var rullet,rul,b1
+accommodate,rumme,rummer,rummede,har rummet,havde rummet,rum,b1
+clear,rydde,rydder,ryddede,har ryddet,havde ryddet,ryd,b1
+smoking,ryge,ryger,røg,har røget,havde røget,ryg,uv
+move,rykke,rykker,rykkede,har rykket,havde rykket,ryk,b1
+shake,ryste,ryster,rystede,har rystet,havde rystet,ryst,b1
+number,række,rækker,rakte,har rakt,havde rakt,ræk,uv
+touch,røre,rører,rørte,har rørt,havde rørt,rør,b2
+shout,råbe,råber,råbte,har råbt,havde råbt,råb,b2
+advise,råde,råder,rådede,har rådet,havde rådet,råd,b1
+pick,samle,samler,samlede,har samlet,havde samlet,saml,b1
+compare,sammenligne,sammen-ligner,sammen-lignede,har sammen-lignet,havde sammen-lignet,sammen-lign,b1
+bet,satse,satser,satsede,har satset,havde satset,sats,b1
+miss,savne,savner,savnede,har savnet,havde savnet,savn,b1
+see,se,ser,så,har set,havde set,se,uv
+sailing,sejle,sejler,sejlede,har sejlet,havde sejlet,sejl,b1
+send,sende,sender,sendte,har sendt,havde sendt,send,b2
+servers,servere,serverer,serverede,har serveret,havde serveret,server,b1
+seen,ses,ses,sås,har sets,havde sets,,uv
+sit,sidde,sidder,sad,har siddet,havde siddet,sid,uv
+say,sige,siger,sagde,har sagt,havde sagt,sig,uv
+ensure,sikre,sikrer,sikrede,har sikret,havde sikret,sikr,b1
+create,skabe,skaber,skabte,har skabt,havde skabt,skab,b2
+damage,skade,skader,skadede,har skadet,havde skadet,skad,b1
+provide,skaffe,skaffer,skaffede,har skaffet,havde skaffet,skaf,b1
+spoon,ske,sker,skete,er sket,var sket,ske,b2
+switch,skifte,skifter,skiftede,har skiftet,havde skiftet,skift,b1
+shine,skinne,skinner,skinnede,har skinnet,havde skinnet,skin,b1
+hide,skjule,skjuler,skjulte,har skjult,havde skjult,skjul,b2
+scream,skrige,skriger,skreg,har skreget,havde skreget,skrig,uv
+write,skrive,skriver,skrev,har skrevet,havde skrevet,skriv,uv
+scare,skræmme,skræmmer,skræmte,har skræmt,havde skræmt,skræm,b2
+push,skubbe,skubber,skubbede,har skubbet,havde skubbet,skub,b1
+drawer,skuffe,skuffer,skuffede,har skuffet,havde skuffet,skuf,b1
+should,skulle,skal,skulle,har skullet,havde skullet,,uv
+shoot,skyde,skyder,skød,har skudt,havde skudt,skyd,uv
+due,skyldes,skyldes,skyldtes,har skyldtes,havde skyldtes,,uv
+cut,skære,skærer,skar,har skåret,havde skåret,skær,uv
+release,slippe,slipper,slap,har / ersluppet,havdesluppet/ var,slip,uv
+off,slukke,slukker,slukkede,er slukket,var slukket,sluk,b1
+join,slutte,slutter,sluttede,er sluttet,var sluttet,slut,b1
+beat,slå,slår,slog,har slået,havde slået,slå,uv
+fight,slås,slås,sloges,har sloges,havde sloges,slås,uv
+taste,smage,smager,smagte,har smagt,havde smagt,smag,b2
+throw,smide,smider,smed,har smidt,havde smidt,smid,b2
+smile,smile,smiler,smilede,har smilet,havde smilet,smil,b1
+infection,smitte,smitter,smittede,har smittet,havde smittet,smit,b1
+talk,snakke,snakker,snakkede,har snakket,havde snakket,snak,b1
+sleep,sove,sover,sov,har sovet,havde sovet,sov,uv
+save,spare,sparer,sparede,har sparet,havde sparet,spar,b1
+play,spille,spiller,spillede,har spillet,havde spillet,spil,b1
+eat,spise,spiser,spiste,har spist,havde spist,spis,b2
+spread,sprede,spreder,spredte,har spredt,havde spredt,spred,b2
+skip,springe,springer,sprang,sprungethar / er,havdesprunget/ var,spring,uv
+ask,spørge,spørger,spurgte,har spurgt,havde spurgt,spørg,uv
+strain,stamme,stammer,stammede,har stammet,havde stammet,stam,b1
+stop,standse,standser,standsede,standsethar / er,havdestandset/ var,stands,b1
+start,starte,starter,startede,har / er startet,havde / var startet,start,b1
+vote,stemme,stemmer,stemte,har stemt,havde stemt,stem,b2
+roast,stege,steger,stegte,har stegt,havde stegt,steg,uv
+increase,stige,stiger,steg,er steget,var steget,stig,uv
+sting,stikke,stikker,stak,har stukket,havde stukket,stik,uv
+elope,stikke af,stikker af,stak af,er stukket af,var stukket af,stik af,uv
+quiet,stille,stiller,stillede,har stillet,havde stillet,stil,b1
+steal,stjæle,stjæler,stjal,har stjålet,havde stjålet,stjæl,uv
+trust,stole på,stoler på,stolede på,har stolet på,havde stolet på,stol på,b1
+stop,stoppe,stopper,stoppede,har / er stoppet,havdestoppet/ var,stop,b1
+criminal,straffe,straffer,straffede,har straffet,havde straffet,straf,b1
+tight,stramme,strammer,strammede,har strammet,havde strammet,stram,b1
+stretch,strække,strækker,strakte,har strakt,havde strakt,stræk,uv
+study,studere,studerer,studerede,har studeret,havde studeret,studer,b1
+control,styre,styrer,styrede,har styret,havde styret,styr,b1
+strength,styrke,styrker,styrkede,har styrket,havde styrket,styrk,b1
+encounter,støde,støder,stødte,stødthar,havdestødt,stød,b2
+encountering,støde på,støder på,stødte på,er stødt på,var stødt på,stød på,b2
+support,støtte,støtter,støttede,har støttet,havde støttet,støt,b1
+stand,stå,står,stod,har stået,havde stået,stå,uv
+rise,stå op,står op,stod op,er stået op,var stået op,stå op,uv
+reply,svare,svarer,svarede,har svaret,havde svaret,svar,b1
+fail,svigte,svigter,svigtede,har sviget,havde svigtet,svigt,b1
+swing,svinge,svinger,svingede,har svinget,havde svinget,sving,b1
+sew,sy,syr,syede,har syet,havde syet,sy,b1
+seems,synes,synes,syntes,har syntes,havde syntes,synes,uv
+sing,synge,synger,sang,har sunget,havde sunget,syng,uv
+sink,synke,synker,sank,er sunket,var sunket,synk,uv
+sell,sælge,sælger,solgte,har solgt,havde solgt,sælg,uv
+lower,sænke,sænker,sænkede,har sænket,havde sænket,sænk,b1
+put,sætte,sætter,satte,har sat,havde sat,sæt,uv
+search,søge,søger,søgte,har søgt,havde søgt,søg,b2
+ensure,sørge for,sørger for,sørgede for,har sørget for,havde sørget for,sørg for,b1
+lose,tabe,taber,tabte,har tabt,havde tabt,tab,b2
+take,tage,tager,tog,har taget,havde taget,tag,uv
+go home,tage hjem,tager hjem,tog hjem,er taget hjem,var taget hjem,tag hjem,uv
+thank,takke,takker,takkede,har takket,havde takket,tak,b1
+speech,tale,taler,talte,har talt,havde talt,tal,b2
+draw,tegne,tegner,tegnede,har tegnet,havde tegnet,tegn,b1
+spend,tilbringe,tilbringer,tilbragte,har tilbragt,havde tilbragt,tilbring,uv
+offer,tilbyde,tilbyder,tilbød,har tilbudt,havde tilbudt,tilbyd,uv
+add,tilføje,tilføjer,tilføjede,har tilføjet,havde tilføjet,tilføj,b1
+belong,tilhøre,tilhører,tilhørte,har tilhørt,havde tilhørt,,b2
+allow,tillade,tillader,tillod,har tilladt,havde tilladt,tillad,uv
+serve,tjene,tjener,tjente,har tjent,havde tjent,tjen,b2
+faith,tro,tror,troede,har troet,havde troet,tro,b1
+TRUE,TRUE,truer,truede,har truet,havde truet,tru,b1
+press,trykke,trykker,trykkede,har trykket,havde trykket,tryk,b1
+step,træde,træder,trådte,har trådt,havde trådt,træd,uv
+take,træffe,træffer,traf,har truffet,havde truffet,træf,uv
+draw,trække,trækker,trak,har trukket,havde trukket,træk,uv
+penetrate,trænge,trænger,trængte,har trængt,havde trængt,træng,b2
+penetrate,trænge ind,trænger ind,trængte ind,er trængt ind,var trængt ind,træng ind,b2
+dare,turde,tør,turde,har turdet,havde turdet,,uv
+force,tvinge,tvinger,tvang,har tvunget,havde tvunget,tving,uv
+clearly,tyde,tyder,tydede,har tydet,havde tydet,tyd,b1
+count,tælle,tæller,talte,har talt,havde talt,tæl,uv
+turn,tænde,tænder,tændte,har tændt,havde tændt,tænd,b2
+think,tænke,tænker,tænkte,har tænkt,havde tænkt,tænk,b2
+empty,tømme,tømmer,tømte,har tømt,havde tømt,tøm,b2
+dry,tørre,tørrer,tørrede,har tørret,havde tørret,tør,b1
+tolerate,tåle,tåler,tålte,har tålt,havde tålt,tål,b2
+prepare,udarbejde,udarbejder,udarbejdede,har udarbejdet,havde udarbejdet,,b1
+spread,udbrede,udbreder,udbredte,har udbredt,havde udbredt,udbred,b2
+train,uddanne,uddanner,uddannede,har uddannet,havde uddannet,uddan,b1
+exclude,udelukke,udelukker,udelukkede,har udelukket,havde udelukket,udeluk,b1
+perform,udføre,udfører,udførte,har udført,havde udført,udfør,uv
+publisher,udgive,udgiver,udgav,har udgivet,havde udgivet,udgiv,uv
+be,udgøre,udgør,udgjorde,har udgjort,havde udgjort,udgør,uv
+livelihood,udkomme,udkommer,udkom,er udkommet,var udkommet,,uv
+disclose,udlevere,udleverer,udleverede,har udleveret,havde udleveret,udlever,b1
+trigger,udløse,udløser,udløste,har udløst,havde udløst,udløs,b2
+exploit,udnytte,udnytter,udnyttede,har udnyttet,havde udnyttet,udnyt,b1
+equip,udstyre,udstyrer,udstyrede,har udstyret,havde udstyret,udstyr,b1
+expose,udsætte,udsætter,udsatte,har udsat,havde udsat,udsæt,uv
+pronunciation,udtale,udtaler,udtalte,har udtalt,havde udtalt,udtal,b2
+express,udtrykke,udtrykker,udtrykte,har udtrykt,havde udtrykt,udtryk,b2
+expand,udvide,udvider,uvidede,har udvidet,havde udvidet,udvid,b1
+develop,udvikle,udvikler,udviklede,har udviklet,havde udviklet,udvikl,b1
+entertain,underholde,underholder,underholdt,har underholdt,havde underholdt,underhold,uv
+stress,understrege,under-streger,stregedeunder-,har under-streget,havde under-streget,under-streg,b1
+investigate,undersøge,undersøger,undersøgte,har undersøgt,havde undersøgt,undersøg,b2
+avoid,undgå,undgår,undgik,har undgået,havde undgået,undgå,b2
+wonder,undre sig,undrer sig,undrede sig,har undret sig,havde undret sig,undr dig,b1
+vaccination,vaccinere,vaccinerer,vaccinerede,har vaccineret,havde vaccineret,vacciner,b1
+product,vare,varer,varede,har varet,havde varet,var,b1
+vary,variere,varierer,varierede,har varieret,havde varieret,varier,b1
+wash,vaske,vasker,vaskede,har vasket,havde vasket,vask,b1
+adopt,vedtage,vedtager,vedtog,har vedtaget,havde vedtaget,vedtag,uv
+roads,veje,vejer,vejede,har vejet,havde vejet,vej,b1
+turn,vende,vender,vendte,har vendt,havde vendt,vend,b2
+wait,vente,venter,ventede,har ventet,havde ventet,vent,b1
+know,vide,ved,vidste,har vidst,havde vidst,vid,uv
+would,ville,vil,ville,har villet,havde villet,vil,uv
+win,vinde,vinder,vandt,har vundet,havde vundet,vind,uv
+work,virke,virker,virkede,har virket,havde virket,virk,b1
+show,vise,viser,viste,har vist,havde vist,vis,b2
+grow,vokse,vokser,voksede,er vokset,var vokset,voks,b1
+assess,vurdere,vurderer,vurderede,har vurderet,havde vurderet,vurder,b1
+arouse,vække,vækker,vækkede,har vækket,havde vækket,væk,b1
+choose,vælge,vælger,valgte,har valgt,havde valgt,vælg,uv
+overthrow,vælte,vælter,væltede,har væltet,havde væltet,vælt,b1
+be,være,er,var,har været,havde været,vær,uv
+wake,vågne,vågner,vågnede,er vågnet,var vågnet,vågn,b1
+provide,yde,yder,ydede,har ydet,havde ydet,yd,b1
+change,ændre,ændrer,ændrede,har ændret,havde ændret,ændr,b1
+destroy,ødelægge,ødelægger,ødelagde,har ødelagt,havde ødelagt,ødelæg,uv
+increase,øge,øger,øgede,har øget,havde øget,øg,
+desire,ønske,ønsker,ønskede,har ønsket,havde ønsket,ønsk,
+open,åbne,åbner,åbnede,har åbnet,havde åbnet,åbn,

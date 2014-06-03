@@ -1,0 +1,516 @@
+_id,translation,navnem,nutid,datid,førnutid,førdatid,bydem,bøj
+1,accept,acceptere,accepterer,accepterede,har accepteret,havde accepteret,accepter,b1
+2,separate,adskille,adskiller,adskilte,har adskilt,havde adskilt,adskil,b2
+3,warn,advare,advarer,advarede,har advaret,havde advaret,advar,b1
+4,interrupt,afbryde,afbryder,afbrød,har afbrudt,havde afbrudt,afbryd,uv
+5,submit,afgive,afgiver,afgav,har afgivet,havde afgivet,afgiv,uv
+6,determine,afgøre,afgør,afgjorde,har afgjort,havde afgjort,afgør,uv
+7,deliver,aflevere,afleverer,afleverede,har afleveret,havde afleveret,aflever,b1
+8,cancel,aflyse,aflyser,aflyste,har aflyst,havde aflyst,aflys,b2
+9,replace,afløse,afløser,afløste,har afløst,havde afløst,afløs,b2
+10,abolish,afskaffe,afskaffer,afskaffede,har afskaffet,havde afskaffet,afskaf,b1
+11,exit,afslutte,afslutter,afsluttede,har afsluttet,havde afsluttet,afslut,b1
+12,reject,afvise,afviser,afviste,har afvist,havde afvist,afvis,b2
+13,recommend,anbefale,anbefaler,anbefalede,har anbefalet,havde anbefalet,anbefal,b1
+14,place,anbringe,anbringer,anbragte,har anbragt,havde anbragt,anbring,uv
+15,ane,ane,aner,anede,har anet,havde anet,,b1
+16,recognize,anerkende,anerkender,anerkendte,har anerkendt,havde anerkendt,anerkend,b2
+17,set,angive,angiver,angav,har angivet,havde angivet,angiv,uv
+18,concern,angå,angår,angik,har angået,havde angået,,uv
+19,arrest,anholde,anholder,anholdt,har anholdt,havde anholdt,anhold,uv
+20,arrive,ankomme,ankommer,ankom,er ankommet,var ankommet,,uv
+21,report,anmelde,anmelder,anmeldte,har anmeldt,havde anmeldt,anmeld,b2
+22,consider,anse,anser,anså,har anset,havde anset,,uv
+23,hire,ansætte,ansætter,ansatte,har ansat,havde ansat,ansæt,uv
+24,use,anvende,anvender,anvendte,har anvendt,havde anvendt,anvend,b2
+25,work,arbejde,arbejder,arbejdede,har arbejdet,havde arbejdet,arbejd,b1
+26,arranging,arrangere,arrangerer,arrangerede,har arrangeret,havde arrangeret,arranger,b1
+27,arrest,arrestere,arresterer,arresterede,har arresteret,havde arresteret,arrester,b1
+28,bake,bage,bager,bagte,har bagt,havde bagt,bag,b2
+29,knock,banke,banker,bankede,har banket,havde banket,bank,b1
+30,ask,bede,beder,bad,har bedt,havde bedt,bed,uv
+31,located,befinde,befinder,befandt,har befundet,havde befundet,,uv
+32,bury,begrave,begraver,begravede,har begravet,havde begravet,begrav,b1
+33,limit,begrænse,begrænser,begrænsede,har begrænset,havde begrænset,begræns,b1
+34,start,begynde,begynder,begyndte,er begyndt,var begyndt,begynd,b2
+35,commit,begå,begår,begik,har begået,havde begået,begå,uv
+36,treat,behandle,behandler,behandlede,har behandlet,havde behandlet,behandl,b1
+37,keep,beholde,beholder,beholdt,har beholdt,havde beholdt,behold,uv
+38,need,behøve,behøver,behøvede,har behøvet,havde behøvet,,b1
+39,complain,beklage,beklager,beklagede,har beklaget,havde beklaget,beklag,b1
+40,confirm,bekræfte,bekræfter,bekræftede,har bekræfted,havde bekræftet,bekræft,b1
+41,note,bemærke,bemærker,bemærkede,har bemærket,havde bemærket,bemærk,b1
+42,use,benytte,benytter,benyttede,har benyttet,havde benyttet,benyt,b1
+43,describe,beskrive,beskriver,beskrev,har beskrevet,havde beskrevet,beskriv,uv
+44,protect,beskytte,beskytter,beskyttede,har beskyttet,havde beskyttet, beskyt,b1
+45,decide,beslutte,beslutter,besluttede,har besluttet,havde besluttet, beslut,b1
+46,determine,bestemme,bestemmer,bestemte,har bestemt,havde bestemt, bestem,b2
+47,book,bestille,bestiller,bestilte,har bestilt,havde bestilt, bestil,b2
+48,consist,bestå,består,bestod,har bestået,havde bestået, bestå,uv
+49,occupy,besætte,besætter,besatte,har besat,havde besat, besæt,uv
+50,visit,besøge,besøger,besøgte,har besøgt,havde besøgt, besøg,b2
+51,pay,betale,betaler,betalte,har betalt,havde betalt, betal,b2
+52,mean,betyde,betyder,betød,har betydet,havde betydet, betyd,uv
+53,preserve,bevare,bevarer,bevarede,har bevaret,havde bevaret, bevar,b1
+54,prove,bevise,beviser,beviste,har bevist,havde bevist, bevis,b2
+55,move,bevæge sig,bevæger sig,bevægede sig,har bevæget  sig,havde bevæget sig,bevæg dig ,b1
+56,bite,bide,bider,bed,har bidt,havde bidt, bid,uv
+57,contribute,bidrage,bidrager,bidrog,har bidraget,havde bidraget, bidrag,uv
+58,tie,binde,binder,bandt,har bundet,havde bundet, bind,uv
+59,mix,blande,blander,blandede,har blandet,havde blandet, bland,b1
+60,be,blive,bliver,blev,er blevet,var blevet, bliv,uv
+61,blow,blæse,blæser,blæste,har blæst,havde blæst, blæs,b2
+62,stay,bo,bor,boede,har boet,havde boet, bo,b1
+63,spread,brede sig,breder sig,bredte sig,har bredt sig,havde bredt sig,bred dig ,b2
+64,bring,bringe,bringer,bragte,har bragt,havde bragt, bring,uv
+65,use,bruge,bruger,brugte,har brugt,havde brugt, brug,b2
+66,break,bryde,bryder,brød,har brudt,havde brudt, bryd,uv
+67,building,bygge,bygger,byggede,har bygget,havde bygget, byg,b1
+68,exchange,bytte,bytter,byttede,har byttet,havde byttet, byt,b1
+69,wear,bære,bærer,bar,har båret,havde båret, bær,uv
+70,quote,citere,citerer,citerede,har citeret,havde citeret, citer,b1
+71,form,danne,danner,dannede,har dannet,havde dannet, dan,b1
+72,dance,danse,danser,dansede,har danset,havde danset, dans,b1
+73,parts,dele,deler,delte,har delt,havde delt, del,b2
+74,participate,deltage,deltager,deltog,har deltaget,havde deltaget, deltag,uv
+75,discuss,diskutere,diskuterer,diskuterede,har diskuteret,havde diskuteret,diskuter ,b1
+76,dominate,dominere,dominerer,dominerede,har domineret,havde domineret,dominer ,b1
+77,kite,drage,drager,drog,har draget,havde draget, drag,uv
+78,turning,dreje,drejer,drejede,har drejet,havde drejet, dreje,b1
+79,drink,drikke,drikker,drak,har drukket,havde drukket, drik,uv
+80,drive,drive,driver,drev,har drevet,havde drevet, driv,uv
+81,kill,dræbe,dræber,dræbte,har dræbt,havde dræbt, dræb,b2
+82,discuss,drøfte,drøfter,drøftede,har drøftet,havde drøftet, drøft,b1
+83,dreams,drømme,drømmer,drømte,har drømt,havde drømt, drøm,b2
+84,show up,dukke op,dukker op,dukkede op,er dukket op,var dukket op, duk op,b1
+85,cover,dække,dækker,dækkede,har dækket,havde dækket, dæk,b1
+86,die,dø,dør,døde,er død,var død, dø,uv
+87,judging,dømme,dømmer,dømte,har dømt,havde dømt,døm,b2
+88,leave,efterlade,efterlader,efterlod,har efterladt,havde efterladt,efterlad,uv
+89,owning,eje,ejer,ejede,har ejet,havde ejet,,b1
+90,exist,eksistere,eksisterer,eksisterede,har eksisteret,havde eksisteret,,b1
+91,love,elske,elsker,elskede,har elsket,havde elsket,elsk,b1
+92,end,ende,ender,endte,er endt,var endt,,b2
+93,recognize,erkende,erkender,erkendte,har erkendt,havde erkendt,erkend,b2
+94,replace,erstatte,erstatter,erstattede,har erstattet,havde erstatte,erstat,b1
+95,fall,falde,falder,faldt,er faldet,var faldet,fald,uv
+96,catch,fange,fanger,fangede,har fanget,havde fanget,fang,b1
+97,maintain,fastholde,fastholder,fastholdt,har fastholdt,havde fastholdt,fasthold,uv
+98,determine,fastslå,fastslår,fastslog,har fastslået,havde fastslået,slå fast,uv
+99,fix,fastsætte,fastsætter,fastsatte,har fastsat,havde fastsat,fastsæt,uv
+100,grasp,fatte,fatter,fattede,har fattet,havde fattet,fat,b1
+101,celebrate,fejre,fejrer,fejrede,har fejret,havde fejret,fejr,b1
+102,find,finde,finder,fandt,har fundet,havde fundet,find,uv
+103,remove,fjerne,fjerner,fjernede,har fjernet,havde fjernet,fjern,b1
+104,escape,flygte,flygter,flygtede,er flygtet,var flygtet,flygt,b1
+105,move,flytte,flytter,flyttede,er flyttet,var flyttet,flyt,b1
+106,fly,flyve,flyver,fløj,har / er fløjet,havde / var fløjet,flyv,uv
+107,feed,fodre,fodrer,fodrede,har fodret,havde fodret,fodr,b1
+108,improve,forbedre,forbedrer,forbedrede,har forbedret,havde forbedret,forbedr,b1
+109,prepare,forberede,forbereder,forberedte,har forberedt,havde forberedt,forbered,b2
+110,link,forbinde,forbinder,forbandt,har forbundet,havde forfundet,forbind,uv
+111,remain,forblive,forbliver,forblev,er forblevet,var forblevet,forbliv,uv
+112,benefits,fordele,fordeler,fordelte,har fordelt,havde fordelt,fordel,b2
+113,place,foregå,foregår,foregik,er foregået,var foregået,foregå,uv
+114,occur,forekomme,forekommer,forekom,er forekommet,var forekommet,forekom,uv
+115,fall in love,forelske sig,forelsker sig,forelskede sig,har forelsket sig,havde forelsketsig,forelsk dig,b1
+116,unite,forene,forener,forenede,har forenet,havde forenet,foren,b1
+117,suggest,foreslå,foreslår,foreslog,har foreslået,havde foreslået,foreslå,uv
+118,imagine,forestille sig,forestiller sig,forestillede sig,forestillethar  sig,havde forestilletsig,forestil dig,b1
+119,take,foretage sig,foretager sig,foretog sig,har foretagetsig,havde foretagetsig,foretag dig,uv
+120,prefer,foretrække,foretrækker,foretrak,har foretrukket,havde foretrukket,,uv
+121,negotiate,forhandle,forhandler,forhandlede,har forhandlet,havde forhandlet,forhandl,b1
+122,prevent,forhindre,forhindrer,forhindrede,har forhindret,havde forhindret,forhindr,b1
+123,relate,forholde sig,forholder sig,forholdt sig,har forholdt sig,havde forholdt sig,forhold dig,uv
+124,explain,forklare,forklarer,forklarede,har forklaret,havde forklaret,forklar,b1
+125,leave,forlade,forlader,forlod,har forladt,havde forladt,forlad,uv
+126,demand,forlange,forlanger,forlangte,har forlangt,havde forlangt,forlang,b2
+127,formulate,formulere,formulerer,formulerede,har formuleret,havde formuleret,formuler,b1
+128,induce,formå,formår,formåede,har fomået,havde formået,formå,b1
+129,delay,forsinke,forsinker,forsinkede,har forsinket,havde forsinket,forsink,b1
+130,understand,forstå,forstår,forstod,har forstået,havde forstået,forstå,uv
+131,defend,forsvare,forsvarer,forsvarede,har forsvaret,havde forsvaret,forsvar,b1
+132,disappear,forsvinde,forsvinder,forsvandt,er forsvundet,var forsvundet,forsvind,uv
+133,try,forsøge,forsøger,forsøgte,har forsøgt,havde forsøgt,forsøg,b2
+134,profits,fortjene,fortjener,fortjente,har fortjent,havde fortjent,fortjen,b2
+135,continue,fortsætte,fortsætter,fortsatte,har / er fortsat,havde / var fortsat,fortsæt,uv
+136,tell,fortælle,fortæller,fortalte,har fortalt,havde fortalt,fortæl,uv
+137,require,forudsætte,forudsætter,forudsatte,har / erforudsat,havdeforudsat/ var,forudsæt,uv
+138,transform,forvandle,forvandler,forvandlede,har forvandlet,havde forvandlet,forvandl,b1
+139,expect,forvente,forventer,forventede,har forventet,havde forventet,forvent,b1
+140,appear,fremgå,fremgår,fremgik,er fremgået,var fremgået,fremgå,uv
+141,highlight,fremhæve,fremhæver,fremhævede,har fremhævet,havde fremhævet,fremhæv,b1
+142,submit,fremlægge,fremlægger,fremlagde,har fremlagt,havde fremlagt,fremlæg,uv
+143,produce,fremstille,fremstiller,fremstillede,har fremstillet,havde fremstillet,fremstil,b1
+144,submit,fremsætte,fremsætter,fremsatte,har fremsat,havde fremsat,fremsæt,uv
+145,tempt,friste,frister,fristede,har fristet,havde fristet,frist,b1
+146,fear,frygte,frygter,frygtede,har frygtet,havde frygtet,frygt,b1
+147,function,fungere,fungerer,fungerede,har fungeret,havde fungeret,funger,b1
+148,fill,fylde,fylder,fyldte,har fyldt,havde fyldt,fyld,b2
+149,guys,fyre,fyrer,fyrede,har fyret,havde fyret,fyr,b1
+150,food,føde,føder,fødte,har født,havde født,fød,b2
+151,feel,føle,føler,følte,har følt,havde følt,føl,b2
+152,follow,følge,følger,fulgte,har fulgt,havde fulgt,følg,uv
+153,lead,føre,fører,førte,har ført,havde ført,før,b2
+154,get,få,får,fik,har fået,havde fået,få,uv
+155,save,gemme,gemmer,gemte,har gemt,havde gemt,gem,b2
+156,bother,genere,generer,generede,har generet,havde generet,gener,b1
+157,implement,gennemføre,gennemfører,gennemførte,har gennemført,havde gennemført,gennemfør,b2
+158,review,gennemgå,gennemgår,gennemgik,har gennemgået,havde gennemgået,gennemgå,uv
+159,repeat,gentage,gentager,gentog,har gentaget,havde gentaget,gentag,uv
+160,choose,gide,gider,gad,har gidet,havde gidet,gid,uv
+161,marry,gifte sig,gifter sig,giftede sig,har giftet sig,havde giftet sig,gift dig,b1
+162,provide,give,giver,gav,har givet,havde givet,giv,uv
+163,forget,glemme,glemmer,glemte,har glemt,havde glemt,glem,b2
+164,slide,glide,glider,gled,er gledet,var gledet,glid,uv
+165,rejoice,glæde sig,glæder sig,glædede sig,har glædet sig,havde glædet sig,glæd dig,b1
+166,approve,godkende,godkender,godkendte,har godkendt,havde godkendt,godkend,b2
+167,intervene,gribe,griber,greb,har grebet,havde grebet,grib,uv
+168,laugh,grine,griner,grinede,har grinet,havde grinet,grin,b1
+169,cry,græde,græder,græd,har grædt,havde grædt,græd,uv
+170,do,gøre,gør,gjorde,har gjort,havde gjort,gør,uv
+171,go,gå,går,gik,har / er gået,havde / var gået,gå,uv
+172,hate,hade,hader,hadede,har hadet,havde hadet,had,b1
+173,act,handle,handler,handlede,har handlet,havde handlet,handl,b1
+174,garden,have,har,havde,har haft,havde haft,hav,uv
+175,called,hedde,hedder,hed,har heddet,havde heddet,,uv
+176,download,hente,henter,hentede,har hentet,havde hentet,hent,b1
+177,turn,henvende sig,henvendersig,henvendte sig,har henvendt  sig,havde henvendt sig,henvend dig,b2
+178,refer,henvise,henviser,henviste,har henvist,havde henvist,henvis,b2
+179,rule,herske,hersker,herskede,har hersket,havde hersket,hersk,b1
+180,greet,hilse,hilser,hilste,har hilst,havde hilst,hils,b2
+181,prevent,hindre,hindrer,hindrede,har hindret,havde hindret,hindr,b1
+182,help,hjælpe,hjælper,hjalp,har hjulpet,havde hjulpet,hjælp,uv
+183,keep,holde,holder,holdt,har holdt,havde holdt,hold,uv
+184,jump,hoppe,hopper,hoppede,har / er hoppet,havdehoppet/ var,hop,b1
+185,remember,huske,husker,huskede,har husket,havde husket,husk,b1
+186,rest,hvile sig,hviler sig,hvilede sig,har hvilet sig,havde hvilet sig,hvil dig,b1
+187,whisper,hviske,hvisker,hviskede,har hvisket,havde hvisket,hvisk,b1
+188,pour,hælde,hælder,hældte,har hældt,havde hældt,hæld,b2
+189,hang (tr) .,"hænge, (tr).",hænger,hængte,har hængt,havde hængt,hæng,b2
+190,hang ( intr ) .,hænge (intr).,hænger,hang,har hængt,havde hængt,hæng,uv
+191,claim,hævde,hævder,Hævdede,har hævdet,havde hævdet,hævd,b1
+192,raise,hæve,hæver,hævede,har hævet,havde hævet,hæv,b1
+193,hear,høre,hører,hørte,har hørt,havde hørt,hør,b2
+194,hope,håbe,håber,håbede,har håbet,havde håbet,håb,b1
+195,involve,inddrage,inddrager,inddrog,har inddraget,havde inddraget,inddrag,uv
+196,imply,indebære,indebærer,indebar,har indebåret,havde indebåret,,uv
+197,contain,indeholde,indeholder,indeholdt,har indeholdt,havde indeholdt,,uv
+198,introduce,indføre,indfører,indførte,har indført,havde indført,indfør,b2
+199,included,indgå,indgår,indgik,har indgået,havde indgået,indgå,uv
+200,open,indlede,indleder,indledte,har indledt,havde indledt,indled,b2
+201,organize,indrette,indretter,indrettede,har indrettet,havde indrettet,indret,b1
+202,admit,indrømme,indrømmer,indrømmede,har indrømmet,havde indrømmet,indrøm,b1
+203,set,indstille,indstiller,indstillede,har indstillet,havde indstillet,indstil,b1
+204,take,indtage,indtager,indtog,har indtaget,havde indtaget,indtag,uv
+205,install,installere,installerer,installerede,har installeret,havde installeret,installer,b1
+206,inspire,inspirere,inspirerer,inspirerede,har inspireret,havde inspireret,inspirer,b1
+207,interest,interessere,interesserer,interesserede,har interesseret,havde interesseret,interesser,b1
+208,invest,investere,investerer,investerede,har investeret,havde investeret,invester,b1
+209,invite,invitere,inviterer,inviterede,har inviteret,havde inviteret,inviter,b1
+210,irritate,irritere,irriterer,irriterede,har irriteret,havde irriteret,irriter,b1
+211,call,kalde,kalder,kaldte,har kaldt,havde kaldt,kald,b2
+212,throw,kaste,kaster,kastede,har kastet,havde kastet,kast,b1
+213,know,kende,kender,kendte,har kendt,havde kendt,kend,b2
+214,look,kigge,kigger,kiggede,har kigget,havde kigget,kig,b1
+215,clear,klare,klarer,klarede,har klaret,havde klaret,klar,b1
+216,rock,klippe,klipper,klippede,har klippet,havde klippet,klip,b1
+217,dress,klæde,klæder,klædte,har klædt,havde klædt,klæd,b2
+218,crush,knuse,knuser,knuste,har knust,havde knust,knus,b2
+219,link,knytte,knytter,knyttede,har knyttet,havde knyttet,knyt,b1
+220,cook,koge,koger,kogte,har kogt,havde kogt,kog,b2
+221,combining,kombinere,kombinerer,kombinerede,har kombineret,havde kombineret,kombiner,b1
+222,come,komme,kommer,kom,er kommet,var kommet,kom,uv
+223,comment,kommentere,kommenterer,kommenterede,Har kommenteret,kommenterethavde,kommenter,b1
+224,concentrate,koncentrere sig,koncentrerer sig,koncentrede sig,har koncentreret sig,havde koncentreret sig,koncentrer dig,b1
+225,note,konstatere,konstaterer,konstaterede,har konstateret,havde konstateret,konstater,b1
+226,contact,kontakte,kontakter,kontaktede,har kontaktet,havde kontaktet,kontakt,b1
+227,check,kontrollere,kontrollerer,kontrollerede,har kontrolleret,havde kontrolleret,kontroller,b1
+228,cost,koste,koster,kostede,har kostet,havde kostet,,b1
+229,criticize,kritisere,kritiserer,kritiserede,har kritiseret,havde kritiseret,kritiser,b1
+230,require,kræve,kræver,krævede,har krævet,havde krævet,kræv,b1
+231,could,kunne,kan,kunne,har kunnet,havde kunnet,,uv
+232,like,kunne lide,kan lide,kunne lide,har kunnet lide,havde kunnet lide,,uv
+233,kiss,kysse,kysser,kyssede,har kysset,havde kysset,kys,b1
+234,fight,kæmpe,kæmper,kæmpede,har kæmpet,havde kæmpet,kæmp,b1
+235,buy,købe,køber,købte,har købt,havde købt,køb,b2
+236,run,køre,kører,kørte,har / er kørt,havde / var kørt,kør,b2
+237,let,lade,lader,lod,har ladet,havde ladet,lad,uv
+238,pretend,lade som om,lader som om,lod som om,har ladet som om,havde ladet som om,lad som om,uv
+239,countries,lande,lander,landede,er landet,var landet,land,b1
+240,low,lave,laver,lavede,har lavet,havde lavet,lav,b1
+241,le,le,ler,lo,har leet,havde leet,le,uv
+242,lead,lede,leder,ledte,har ledt,havde ledt,led,b2
+243,play,lege,leger,legede,har leget,havde leget,leg,b1
+244,rent,leje,lejer,lejede,har lejet,havde lejet,lej,b1
+245,light,lette,letter,lettede,har / er lettet,havde / er lettet,let,b1
+246,live,leve,lever,levede,har levet,havde levet,lev,b1
+247,supply,levere,leverer,leverede,har leveret,havde leveret,lever,b1
+248,like,lide,lider,led,har lidt,havde lidt,lid,uv
+249,lie ( intr. ),ligge (intr.),ligger,lå,har ligget,havde ligget,lig,uv
+250,like,ligne,ligner,lignede,har lignet,havde lignet,lign,b1
+251,lure,lokke,lokker,lokkede,har lokket,havde lokket,lok,b1
+252,laws,love,lover,lovede,har lovet,havde lovet,lov,b1
+253,close,lukke,lukker,lukkede,har lukket,havde lukket,luk,b1
+254,sounds,lyde,lyder,lød,har lydt,havde lydt,lyd,uv
+255,succeed,lykkes,lykkes,lykkedes,er lykkedes,var lykkedes,,uv
+256,bright,lyse,lyser,lyste,har lyst,havde lyst,lys,b2
+257,listen,lytte,lytter,lyttede,har lyttet,havde lyttet,lyt,b1
+258,put ( tr. ),lægge (tr.),lægger,lagde,har lagt,havde lagt,læg,uv
+259,learn,lære,lærer,lærte,har lært,havde lært,lær,b2
+260,read,læse,læser,læste,har læst,havde læst,læs,b2
+261,run,løbe,løber,løb,har / er løbet,havde / var løbet,løb,uv
+262,lift,løfte,løfter,løftede,har løftet,havde løftet,løft,b1
+263,solve,løse,løser,løste,har løst,havde løst,løs,b2
+264,loan,låne,låner,lånte,har lånt,havde lånt,lån,b2
+265,paint,male,maler,malede,har malet,havde malet,mal,b1
+266,missing,mangle,mangler,manglede,har manglet,havde manglet,,b1
+267,grant,meddele,meddeler,meddelte,har meddelt,havde meddelt,meddel,b2
+268,cause,medføre,medfører,medførte,har medført,havde medført,medfør,b2
+269,help,medvirke,medvirker,medvirkede,har medvirket,havde medvirket,medvirk,b1
+270,report,melde,melder,meldte,har meldt,havde meldt,meld,b2
+271,think,mene,mener,mente,har ment,havde ment,men,b2
+272,memorial,minde,minder,mindede,har mindet,havde mindet,mind,b1
+273,lose,miste,mister,mistede,har mistet,havde mistet,mist,b1
+274,receive,modtage,modtager,modtog,har modtaget,havde modtaget,modtag,uv
+275,murder,myrde,myrder,myrdede,har myrdet,havde myrdet,myrd,b1
+276,brand,mærke,mærker,mærkede,har mærket,havde mærket,mærk,b1
+277,meeting,møde,møder,mødte,har mødt,havde mødt,mød,b2
+278,meet,mødes,mødes,mødtes,har mødtes,havde mødtes,,uv
+279,measurement,måle,måler,målte,har målt,havde målt,mål,b2
+280,had,måtte,må,måtte,har måttet,havde måttet,,uv
+281,resign,nedlægge,nedlægger,nedlagde,har nedlagt,havde nedlagt,nedlæg,uv
+282,decrease,nedsætte,nedsætter,nedsatte,har nedsat,havde nedsat,nedsæt,uv
+283,nod,nikke,nikker,nikkede,har nikket,havde nikket,nik,b1
+284,note,notere,noterer,noterede,har noteret,havde noteret,noter,b1
+285,enjoy,nyde,nyder,nød,har nydt,havde nydt,nyd,uv
+286,refuse,nægte,nægter,nægtede,har nægtet,havde nægtet,nægt,b1
+287,approach,nærme sig,nærmer sig,nærmede sig,har nærmet  sig,nærmethavde sig,nærm dig,b1
+288,just,nøjes med,nøjes med,nøjedes med,har nøjedes,havde nøjedesmed,nøjes med,uv
+289,reach,nå,når,nåede,har nået,havde nået,nå,b1
+290,publish,offentliggøre,offentliggør,offentlig-gjorde,har offentlig-gjort,havde offentlig-gjort,offentlig-gør,uv
+291,include,omfatte,omfatter,omfattede,har omfattet,havde omfattet,omfat,b1
+292,surround,omgive,omgiver,omgav,har omgivet,havde omgivet,omgiv,uv
+293,build,opbygge,opbygger,opbyggede,har opbygget,havde opbygget,opbyg,b1
+294,discover,opdage,opdager,opdagede,har opdaget,havde opdaget,opdag,b1
+295,operate,operere,opererer,opererede,har opereret,havde opereret,operer,b1
+296,perceive,opfatte,opfatter,opfattede,har opfattet,havde opfattet,opfat,b1
+297,invent,opfinde,opfinder,opfandt,har opfundet,havde opfundet,opfind,uv
+298,encourage,opfordre,opfordrer,opfordrede,har opfordret,havde opfordret,opfordr,b1
+299,meet,opfylde,opfylder,opfyldte,har opfyldt,havde opfyldt,opfyld,b2
+300,behave,opføre,opfører,opførte,har opført,havde opført,opfør,b2
+301,give up,opgive,opgiver,opgav,har opgivet,havde opgivet,opgiv,uv
+302,lift,ophæve,ophæver,ophævede,har ophævet,havde ophævet,ophæv,b1
+303,experience,opleve,oplever,oplevede,har oplevet,havde oplevet,oplev,b1
+304,state,oplyse,oplyser,oplyste,har oplyst,havde oplyst,oplys,b2
+305,achieve,opnå,opnår,opnåede,har opnået,havde opnået,opnå,b1
+306,create,oprette,opretter,oprettede,har oprettet,havde oprettet,opret,b1
+307,set,opstille,opstiller,opstillede,har opstillet,havde opstillet,opstil,b1
+308,occur,opstå,opstår,opstod,er opstået,var opstået,opstå,uv
+309,record,optage,optager,optog,har optaget,havde optaget,optag,uv
+310,act,optræde,optræder,optrådte,har optrådt,havde optrådt,optræd,uv
+311,orient,orientere,orienterer,orienterede,har orienteret,havde orienteret,orienter,b1
+312,convince,overbevise,overbeviser,overbeviste,har overbevist,havde overbevist,overbevis,b2
+313,transfer,overføre,overfører,overførte,har overført,havde overført,overfør,b2
+314,comply,overholde,overholder,overholdt,har overholdt,havde overholdt,overhold,uv
+315,leave,overlade,overlader,overlod,har overladt,havde overladt,overlad,uv
+316,survive,overleve,overlever,overlevede,har overlevet,havde overlevet,overlev,b1
+317,surprise,overraske,overrasker,overraskede,har overrasket,havde overrasket,overrask,b1
+318,over,overtage,overtager,overtog,har overtaget,havde overtaget,overtag,uv
+319,consider,overveje,overvejer,overvejede,har overvejet,havde overvejet,overvej,b1
+320,package,pakke,pakker,pakkede,har pakket,havde pakket,pak,b1
+321,fit,passe,passer,passede,har passet,havde passet,pas,b1
+322,point,pege,peger,pegede,har peget,havde peget,peg,b1
+323,place,placere,placerer,placerede,har placeret,havde placeret,placer,b1
+324,plan,planlægge,planlægger,planlagde,har planlagt,havde planlagt,planlæg,uv
+325,care,pleje,plejer,plejede,har plejet,havde plejet,plej,b1
+326,press,presse,presser,pressede,har presset,havde presset,pres,b1
+327,produce,producere,producerer,producerede,har produceret,havde produceret,producer,b1
+328,influence,præge,præger,prægede,har præget,havde præget,præg,b1
+329,present,præsentere,præsenterer,præsenterede,har præsenteret,havde præsenteret,præsenter,b1
+330,specimen,prøve,prøver,prøvede,har prøvet,havde prøvet,prøv,b1
+331,polish,pudse,pudser,pudsede,har pudset,havde pudset,puds,b1
+332,affect,påvirke,påvirker,påvirkede,har påvirket,havde påvirket,påvirk,b1
+333,frame,ramme,rammer,ramte,har ramt,havde ramt,ram,b2
+334,react,reagere,reagerer,reagerede,har reageret,havde reageret,reager,b1
+335,save,redde,redder,reddede,har reddet,havde reddet,red,b1
+336,reducing,reducere,reducerer,reducerede,har reduceret,havde reduceret,reducer,b1
+337,register,registrere,registrerer,registrerede,har registreret,havde registreret,registrer,b1
+338,count,regne,regner,regnede,har regnet,havde regnet,regn,b1
+339,travel,rejse,rejser,rejste,har / er rejst,havde / var rejst,rejs,b2
+340,clean,rense,renser,rensede,har renset,havde renset,rens,b1
+341,represent,repræsentere,repræsen-terer,repræsen-terede,har repræsen-teret,havde repræsen-teret,repræsen-ter,b1
+342,respect,respektere,respekterer,respekterede,har respekteret,havde respekteret,respekter,b1
+343,right,rette,retter,rettede,har rettet,havde rettet,ret,b1
+344,ride,ride,rider,red,har redet,havde redet,rid,uv
+345,call,ringe,ringer,ringede,har ringet,havde ringet,ring,b1
+346,risk,risikere,risikerer,risikerede,har risikeret,havde risikeret,risiker,b1
+347,tear,rive,river,rev,har revet,havde revet,riv,uv
+348,rose,rose,roser,roste,har rost,havde rost,ros,b2
+349,roll,rulle,ruller,rullede,har / er rullet,havde / var rullet,rul,b1
+350,accommodate,rumme,rummer,rummede,har rummet,havde rummet,rum,b1
+351,clear,rydde,rydder,ryddede,har ryddet,havde ryddet,ryd,b1
+352,smoking,ryge,ryger,røg,har røget,havde røget,ryg,uv
+353,move,rykke,rykker,rykkede,har rykket,havde rykket,ryk,b1
+354,shake,ryste,ryster,rystede,har rystet,havde rystet,ryst,b1
+355,number,række,rækker,rakte,har rakt,havde rakt,ræk,uv
+356,touch,røre,rører,rørte,har rørt,havde rørt,rør,b2
+357,shout,råbe,råber,råbte,har råbt,havde råbt,råb,b2
+358,advise,råde,råder,rådede,har rådet,havde rådet,råd,b1
+359,pick,samle,samler,samlede,har samlet,havde samlet,saml,b1
+360,compare,sammenligne,sammen-ligner,sammen-lignede,har sammen-lignet,havde sammen-lignet,sammen-lign,b1
+361,bet,satse,satser,satsede,har satset,havde satset,sats,b1
+362,miss,savne,savner,savnede,har savnet,havde savnet,savn,b1
+363,see,se,ser,så,har set,havde set,se,uv
+364,sailing,sejle,sejler,sejlede,har sejlet,havde sejlet,sejl,b1
+365,send,sende,sender,sendte,har sendt,havde sendt,send,b2
+366,servers,servere,serverer,serverede,har serveret,havde serveret,server,b1
+367,seen,ses,ses,sås,har sets,havde sets,,uv
+368,sit,sidde,sidder,sad,har siddet,havde siddet,sid,uv
+369,say,sige,siger,sagde,har sagt,havde sagt,sig,uv
+370,ensure,sikre,sikrer,sikrede,har sikret,havde sikret,sikr,b1
+371,create,skabe,skaber,skabte,har skabt,havde skabt,skab,b2
+372,damage,skade,skader,skadede,har skadet,havde skadet,skad,b1
+373,provide,skaffe,skaffer,skaffede,har skaffet,havde skaffet,skaf,b1
+374,spoon,ske,sker,skete,er sket,var sket,ske,b2
+375,switch,skifte,skifter,skiftede,har skiftet,havde skiftet,skift,b1
+376,shine,skinne,skinner,skinnede,har skinnet,havde skinnet,skin,b1
+377,hide,skjule,skjuler,skjulte,har skjult,havde skjult,skjul,b2
+378,scream,skrige,skriger,skreg,har skreget,havde skreget,skrig,uv
+379,write,skrive,skriver,skrev,har skrevet,havde skrevet,skriv,uv
+380,scare,skræmme,skræmmer,skræmte,har skræmt,havde skræmt,skræm,b2
+381,push,skubbe,skubber,skubbede,har skubbet,havde skubbet,skub,b1
+382,drawer,skuffe,skuffer,skuffede,har skuffet,havde skuffet,skuf,b1
+383,should,skulle,skal,skulle,har skullet,havde skullet,,uv
+384,shoot,skyde,skyder,skød,har skudt,havde skudt,skyd,uv
+385,due,skyldes,skyldes,skyldtes,har skyldtes,havde skyldtes,,uv
+386,cut,skære,skærer,skar,har skåret,havde skåret,skær,uv
+387,release,slippe,slipper,slap,har / ersluppet,havdesluppet/ var,slip,uv
+388,off,slukke,slukker,slukkede,er slukket,var slukket,sluk,b1
+389,join,slutte,slutter,sluttede,er sluttet,var sluttet,slut,b1
+390,beat,slå,slår,slog,har slået,havde slået,slå,uv
+391,fight,slås,slås,sloges,har sloges,havde sloges,slås,uv
+392,taste,smage,smager,smagte,har smagt,havde smagt,smag,b2
+393,throw,smide,smider,smed,har smidt,havde smidt,smid,b2
+394,smile,smile,smiler,smilede,har smilet,havde smilet,smil,b1
+395,infection,smitte,smitter,smittede,har smittet,havde smittet,smit,b1
+396,talk,snakke,snakker,snakkede,har snakket,havde snakket,snak,b1
+397,sleep,sove,sover,sov,har sovet,havde sovet,sov,uv
+398,save,spare,sparer,sparede,har sparet,havde sparet,spar,b1
+399,play,spille,spiller,spillede,har spillet,havde spillet,spil,b1
+400,eat,spise,spiser,spiste,har spist,havde spist,spis,b2
+401,spread,sprede,spreder,spredte,har spredt,havde spredt,spred,b2
+402,skip,springe,springer,sprang,sprungethar / er,havdesprunget/ var,spring,uv
+403,ask,spørge,spørger,spurgte,har spurgt,havde spurgt,spørg,uv
+404,strain,stamme,stammer,stammede,har stammet,havde stammet,stam,b1
+405,stop,standse,standser,standsede,standsethar / er,havdestandset/ var,stands,b1
+406,start,starte,starter,startede,har / er startet,havde / var startet,start,b1
+407,vote,stemme,stemmer,stemte,har stemt,havde stemt,stem,b2
+408,roast,stege,steger,stegte,har stegt,havde stegt,steg,uv
+409,increase,stige,stiger,steg,er steget,var steget,stig,uv
+410,sting,stikke,stikker,stak,har stukket,havde stukket,stik,uv
+411,elope,stikke af,stikker af,stak af,er stukket af,var stukket af,stik af,uv
+412,quiet,stille,stiller,stillede,har stillet,havde stillet,stil,b1
+413,steal,stjæle,stjæler,stjal,har stjålet,havde stjålet,stjæl,uv
+414,trust,stole på,stoler på,stolede på,har stolet på,havde stolet på,stol på,b1
+415,stop,stoppe,stopper,stoppede,har / er stoppet,havdestoppet/ var,stop,b1
+416,criminal,straffe,straffer,straffede,har straffet,havde straffet,straf,b1
+417,tight,stramme,strammer,strammede,har strammet,havde strammet,stram,b1
+418,stretch,strække,strækker,strakte,har strakt,havde strakt,stræk,uv
+419,study,studere,studerer,studerede,har studeret,havde studeret,studer,b1
+420,control,styre,styrer,styrede,har styret,havde styret,styr,b1
+421,strength,styrke,styrker,styrkede,har styrket,havde styrket,styrk,b1
+422,encounter,støde,støder,stødte,stødthar,havdestødt,stød,b2
+423,encountering,støde på,støder på,stødte på,er stødt på,var stødt på,stød på,b2
+424,support,støtte,støtter,støttede,har støttet,havde støttet,støt,b1
+425,stand,stå,står,stod,har stået,havde stået,stå,uv
+426,rise,stå op,står op,stod op,er stået op,var stået op,stå op,uv
+427,reply,svare,svarer,svarede,har svaret,havde svaret,svar,b1
+428,fail,svigte,svigter,svigtede,har sviget,havde svigtet,svigt,b1
+429,swing,svinge,svinger,svingede,har svinget,havde svinget,sving,b1
+430,sew,sy,syr,syede,har syet,havde syet,sy,b1
+431,seems,synes,synes,syntes,har syntes,havde syntes,synes,uv
+432,sing,synge,synger,sang,har sunget,havde sunget,syng,uv
+433,sink,synke,synker,sank,er sunket,var sunket,synk,uv
+434,sell,sælge,sælger,solgte,har solgt,havde solgt,sælg,uv
+435,lower,sænke,sænker,sænkede,har sænket,havde sænket,sænk,b1
+436,put,sætte,sætter,satte,har sat,havde sat,sæt,uv
+437,search,søge,søger,søgte,har søgt,havde søgt,søg,b2
+438,ensure,sørge for,sørger for,sørgede for,har sørget for,havde sørget for,sørg for,b1
+439,lose,tabe,taber,tabte,har tabt,havde tabt,tab,b2
+440,take,tage,tager,tog,har taget,havde taget,tag,uv
+441,go home,tage hjem,tager hjem,tog hjem,er taget hjem,var taget hjem,tag hjem,uv
+442,thank,takke,takker,takkede,har takket,havde takket,tak,b1
+443,speech,tale,taler,talte,har talt,havde talt,tal,b2
+444,draw,tegne,tegner,tegnede,har tegnet,havde tegnet,tegn,b1
+445,spend,tilbringe,tilbringer,tilbragte,har tilbragt,havde tilbragt,tilbring,uv
+446,offer,tilbyde,tilbyder,tilbød,har tilbudt,havde tilbudt,tilbyd,uv
+447,add,tilføje,tilføjer,tilføjede,har tilføjet,havde tilføjet,tilføj,b1
+448,belong,tilhøre,tilhører,tilhørte,har tilhørt,havde tilhørt,,b2
+449,allow,tillade,tillader,tillod,har tilladt,havde tilladt,tillad,uv
+450,serve,tjene,tjener,tjente,har tjent,havde tjent,tjen,b2
+451,faith,tro,tror,troede,har troet,havde troet,tro,b1
+452,TRUE,TRUE,truer,truede,har truet,havde truet,tru,b1
+453,press,trykke,trykker,trykkede,har trykket,havde trykket,tryk,b1
+454,step,træde,træder,trådte,har trådt,havde trådt,træd,uv
+455,take,træffe,træffer,traf,har truffet,havde truffet,træf,uv
+456,draw,trække,trækker,trak,har trukket,havde trukket,træk,uv
+457,penetrate,trænge,trænger,trængte,har trængt,havde trængt,træng,b2
+458,penetrate,trænge ind,trænger ind,trængte ind,er trængt ind,var trængt ind,træng ind,b2
+459,dare,turde,tør,turde,har turdet,havde turdet,,uv
+460,force,tvinge,tvinger,tvang,har tvunget,havde tvunget,tving,uv
+461,clearly,tyde,tyder,tydede,har tydet,havde tydet,tyd,b1
+462,count,tælle,tæller,talte,har talt,havde talt,tæl,uv
+463,turn,tænde,tænder,tændte,har tændt,havde tændt,tænd,b2
+464,think,tænke,tænker,tænkte,har tænkt,havde tænkt,tænk,b2
+465,empty,tømme,tømmer,tømte,har tømt,havde tømt,tøm,b2
+466,dry,tørre,tørrer,tørrede,har tørret,havde tørret,tør,b1
+467,tolerate,tåle,tåler,tålte,har tålt,havde tålt,tål,b2
+468,prepare,udarbejde,udarbejder,udarbejdede,har udarbejdet,havde udarbejdet,,b1
+469,spread,udbrede,udbreder,udbredte,har udbredt,havde udbredt,udbred,b2
+470,train,uddanne,uddanner,uddannede,har uddannet,havde uddannet,uddan,b1
+471,exclude,udelukke,udelukker,udelukkede,har udelukket,havde udelukket,udeluk,b1
+472,perform,udføre,udfører,udførte,har udført,havde udført,udfør,uv
+473,publisher,udgive,udgiver,udgav,har udgivet,havde udgivet,udgiv,uv
+474,be,udgøre,udgør,udgjorde,har udgjort,havde udgjort,udgør,uv
+475,livelihood,udkomme,udkommer,udkom,er udkommet,var udkommet,,uv
+476,disclose,udlevere,udleverer,udleverede,har udleveret,havde udleveret,udlever,b1
+477,trigger,udløse,udløser,udløste,har udløst,havde udløst,udløs,b2
+478,exploit,udnytte,udnytter,udnyttede,har udnyttet,havde udnyttet,udnyt,b1
+479,equip,udstyre,udstyrer,udstyrede,har udstyret,havde udstyret,udstyr,b1
+480,expose,udsætte,udsætter,udsatte,har udsat,havde udsat,udsæt,uv
+481,pronunciation,udtale,udtaler,udtalte,har udtalt,havde udtalt,udtal,b2
+482,express,udtrykke,udtrykker,udtrykte,har udtrykt,havde udtrykt,udtryk,b2
+483,expand,udvide,udvider,uvidede,har udvidet,havde udvidet,udvid,b1
+484,develop,udvikle,udvikler,udviklede,har udviklet,havde udviklet,udvikl,b1
+485,entertain,underholde,underholder,underholdt,har underholdt,havde underholdt,underhold,uv
+486,stress,understrege,under-streger,stregedeunder-,har under-streget,havde under-streget,under-streg,b1
+487,investigate,undersøge,undersøger,undersøgte,har undersøgt,havde undersøgt,undersøg,b2
+488,avoid,undgå,undgår,undgik,har undgået,havde undgået,undgå,b2
+489,wonder,undre sig,undrer sig,undrede sig,har undret sig,havde undret sig,undr dig,b1
+490,vaccination,vaccinere,vaccinerer,vaccinerede,har vaccineret,havde vaccineret,vacciner,b1
+491,product,vare,varer,varede,har varet,havde varet,var,b1
+492,vary,variere,varierer,varierede,har varieret,havde varieret,varier,b1
+493,wash,vaske,vasker,vaskede,har vasket,havde vasket,vask,b1
+494,adopt,vedtage,vedtager,vedtog,har vedtaget,havde vedtaget,vedtag,uv
+495,roads,veje,vejer,vejede,har vejet,havde vejet,vej,b1
+496,turn,vende,vender,vendte,har vendt,havde vendt,vend,b2
+497,wait,vente,venter,ventede,har ventet,havde ventet,vent,b1
+498,know,vide,ved,vidste,har vidst,havde vidst,vid,uv
+499,would,ville,vil,ville,har villet,havde villet,vil,uv
+500,win,vinde,vinder,vandt,har vundet,havde vundet,vind,uv
+501,work,virke,virker,virkede,har virket,havde virket,virk,b1
+502,show,vise,viser,viste,har vist,havde vist,vis,b2
+503,grow,vokse,vokser,voksede,er vokset,var vokset,voks,b1
+504,assess,vurdere,vurderer,vurderede,har vurderet,havde vurderet,vurder,b1
+505,arouse,vække,vækker,vækkede,har vækket,havde vækket,væk,b1
+506,choose,vælge,vælger,valgte,har valgt,havde valgt,vælg,uv
+507,overthrow,vælte,vælter,væltede,har væltet,havde væltet,vælt,b1
+508,be,være,er,var,har været,havde været,vær,uv
+509,wake,vågne,vågner,vågnede,er vågnet,var vågnet,vågn,b1
+510,provide,yde,yder,ydede,har ydet,havde ydet,yd,b1
+511,change,ændre,ændrer,ændrede,har ændret,havde ændret,ændr,b1
+512,destroy,ødelægge,ødelægger,ødelagde,har ødelagt,havde ødelagt,ødelæg,uv
+513,increase,øge,øger,øgede,har øget,havde øget,øg,
+514,desire,ønske,ønsker,ønskede,har ønsket,havde ønsket,ønsk,
+515,open,åbne,åbner,åbnede,har åbnet,havde åbnet,åbn,
